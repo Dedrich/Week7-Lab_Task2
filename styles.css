@@ -1,0 +1,27 @@
+div{
+    width: 100%;
+    height: 300px;
+}
+
+.d1{
+    background-color: grey;
+}
+
+.d2{
+    background-image: url(assets/spaceBg.jpg);
+}
+
+.pos1{
+    position: absolute;
+    left: 0px;
+    top: 600px;
+}
+
+.d3{
+    background-image: url(assets/colorBg.jpg)
+}
+
+.d4{
+    background-color: red;
+    opacity: .5;
+}
