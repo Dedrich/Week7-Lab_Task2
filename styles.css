@@ -11,12 +11,6 @@ div{
     background-image: url(assets/spaceBg.jpg);
 }
 
-.pos1{
-    position: absolute;
-    left: 0px;
-    top: 600px;
-}
-
 .d3{
     background-image: url(assets/colorBg.jpg)
 }
@@ -24,4 +18,10 @@ div{
 .d4{
     background-color: red;
     opacity: .5;
+}
+
+.pos1{
+    position: absolute;
+    left: 0px;
+    top: 600px;
 }
